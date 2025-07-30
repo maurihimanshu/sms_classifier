@@ -1,0 +1,18 @@
+python==3.8.12
+torch==2.0.1
+transformers==4.30.2
+fastapi==0.100.0
+uvicorn==0.22.0
+pydantic==2.0.3
+pytest==7.4.0
+black==23.3.0
+flake8==6.0.0
+python-jose[cryptography]  # For JWT handling
+passlib[bcrypt]  # For password hashing
+sqlalchemy==1.4.41  # For database management
+alembic==1.9.1  # For database migrations
+psycopg2-binary==2.9.5  # PostgreSQL adapter
+redis==4.5.1  # For caching
+prometheus-client==0.16.0  # For metrics
+python-multipart==0.0.6  # For handling form data
+python-dotenv==0.21.1  # For environment variables
