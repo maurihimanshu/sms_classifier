@@ -64,7 +64,7 @@ The SMS Transaction Classifier is designed to automatically extract and classify
 1. Clone the repository:
 ```bash
 git clone git@github.com:maurihimanshu/sms_classifier.git
-cd sms-transaction-classifier
+cd sms_classifier
 ```
 
 2. Create and activate virtual environment:
